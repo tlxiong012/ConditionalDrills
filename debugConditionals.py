@@ -47,4 +47,6 @@ if age<0:
     print("this can hardly be true!")
 elif age ==1
     print("about 14 human years")
-... and so on
+if age>2:
+human=22
+print(human+22+(age-2)*5)
